@@ -1,16 +1,22 @@
 # OTAku
+
 ## Overengineered To-do Appku: Sistem Manajeman dan Pembagian Tugas secara Hierarkis
 
 ### Members
-- Dzaky
-- Pratama Nanindra Aji
 
-### Tech stack:
+- Muhammad Dzaky Ar-Rasyid
+- Pratama Nanindra Aji (24/533677/PA/22604)
+
+---
+
+### Tech Stack:
+
 - Frontend: Vue, Vuetify, Tailwindcss, Typescript
 - Backend: Go
 - Database: SOLID
 
-### Project structure:
+### Project Structure:
+
 ```
 root/
 |- clients/
@@ -22,3 +28,5 @@ root/
 |- openapi.yaml
 |- CHANGELOG.md
 ```
+
+---
